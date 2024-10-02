@@ -1,0 +1,12 @@
+{
+  "name": "trello-api",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "src/server.js",
+  "repository": "https://gitlab.com/daoanhduc2604/trello-api-nodejs.git",
+  "author": "dinhdt@aladintech.co <dinhdt@aladintech.co>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
